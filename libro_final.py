@@ -3,7 +3,7 @@ import os
 import re
 
 # Carpeta donde están tus PDFs
-carpeta_pdfs = r"C:\Users\Andrea Arias\Desktop\MAGISTER\DEEPLEARNING"
+carpeta_pdfs = r"C:\Users\xxxxxxxx\xxxxxxx\xxxxxxx\xxxxxxx" #Aqui va la ruta de dónde tengas la carpeta con los archivos
 
 # Nombre del archivo final
 salida = os.path.join(carpeta_pdfs, "libro_completo.pdf")
